@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/xr'
+let g:netrw_dirhist_6='/Users/xr/go/src/github.com/heptio/velero/cmd/velero'
+let g:netrw_dirhist_5='/Users/xr/go/src/github.com/heptio/velero/cmd'
+let g:netrw_dirhist_4='/Users/xr/go/src/github.com/heptio/velero'
+let g:netrw_dirhist_3='/Users/xr/go/src/github.com/heptio/velero/cmd/velero'
+let g:netrw_dirhist_2='/Users/xr/go/src/github.com/heptio/velero/cmd'
+let g:netrw_dirhist_1='/Users/xr/go/src/github.com/heptio/velero'
